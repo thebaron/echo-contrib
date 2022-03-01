@@ -1,4 +1,4 @@
-module github.com/labstack/echo-contrib
+module gitlab-master.nvidia.com/nvcloud/echo-contrib
 
 go 1.17
 
